@@ -63,3 +63,4 @@ Thumbs.db
 *.pdf
 *.conf
 !deploy/nginx/*.conf
+!frontend/nginx.conf
